@@ -7,4 +7,4 @@
 ## CREATED : 
    09-11-2016										
 ## Description:
-   This is a mail template used to notify admins via e-mail/ticket when someone's AD account password is already expired, but there's no e-mail address set for that account.
+   This is a notify by mail script used to notify users and/or admins when someone's AD account password is about to expire.
